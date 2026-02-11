@@ -1,0 +1,23 @@
+// === CONVERSACIONES ===
+// Formato: [Usuario] Mensaje
+[Alex_92] ¡Hola a todos! ¿Cómo están? 👋
+[Sofi_Music] Acabo de llegar, ¿qué están escuchando? 🎧
+[CarlosG] Esta canción es un temazo total 🔥
+[Lau_Rocks] @CarlosG Sí, el drop fue brutal 💥
+[Dave_Pro] ¿Alguien más trabajando desde casa? 💼
+[AnaBeat] Saludos desde México 🇲🇽
+[Javi_DJ] Llevo 3 horas aquí, ayuda 😂
+[Mari_Sound] El DJ está rompiéndola hoy 🎵
+[Pablo_Flow] ¿Van a subir esto a YouTube?
+[Cris_Waves] Me encanta esta comunidad ❤️
+
+// === EVENTOS ===
+// Formato: !tipo descripción
+!subscription CarlosG se suscribió por 6 meses
+!gift AnaBeat envió 5 suscripciones
+!donation Javi_DJ donó $25 para la comunidad
+!raid Sofi_Music llegó con 150 viewers
+!bit Lau_Rocks envió 5000 bits
+
+// === EMOTICONOS FLOTANTES ===
+#emojis ❤️ 🔥 🎉 ✨ ⚡ 🌟 🎊 💫 💖 💯 🎵 🎧 🎤 🎸
