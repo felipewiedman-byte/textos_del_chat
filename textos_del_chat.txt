@@ -552,7 +552,6 @@
 [Polynesian_Fire] Fire dancing 🔥
 [Belly_Dance] Middle Eastern rhythms 💃
 [Irish_Step] Fast feet to fast beats 🍀
-[Highland_Dance] Scottish kilt approved 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 [Bharatanatyam_India] Temple dance 🛕
 [Ballet_Russia] Swan lake electronic 🦢
 [Contemporary_Dance] Modern movement 🩰
