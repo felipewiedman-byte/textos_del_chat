@@ -1,5 +1,66 @@
 // === CONVERSACIONES ===
 // Formato: [Usuario] Mensaje
+[LucasMusic] alguien sabe si esta banda viene a argentina?
+[JuliRocker] ni idea loco, pero si vienen compro entrada anticipada
+[MartinUY] seguro hacen fecha en Montevideo tambien
+[CataChilena] ojalá vengan a Santiago, los necesito en vivo
+[GuitarHero] yo los vi en vivo el año pasado, son bestiales
+[LucasMusic] no me lo digas que me da mas ganas
+[LauraOficina] escuchando esto en el trabajo, escondiendo el telefono
+[GerenteRandom] laura veni un segundo
+[LauraOficina] cagamos, me descubrieron
+[PedroCompa] fuerzas laura, ojala sea un aumento
+[LauraOficina] era para pedirme que ponga musica para todos
+[GerenteRandom] la tiene clarisima la jefa
+[NachoCerveza] tomando una birra escuchando esto, no hay mejor plan
+[FerBirrero] estas solo o acompañado?
+[NachoCerveza] solo, pero con esto no me siento solo
+[FerBirrero] profundo nacho, muy profundo
+[SofiMama] tratando de dormir al bebe con esto, el bebe quiere hacer mosh
+[CandeHijos] no le pongas esto a un bebe sofi, lo vas a volver rebelde
+[SofiMama] mejor que sea rebelde a que sea dormilon
+[CandeHijos] re bien pensado
+[GatoElectro] mi gato camina al ritmo de esto, lo juro
+[MichiFlow] el mio duerme, es un muerto
+[GatoElectro] entrenalo con sesiones diarias
+[MichiFlow] el unico entrenamiento que acepta es comer
+[RunnerAna] sali a correr con esto y me fui 5km de mas
+[MatuRunning] te pasaste ana, yo corro 2km y me quiero morir
+[RunnerAna] es la musica, te lleva
+[MatuRunning] me prestas tus oidos? jaja
+[JuliSuper] haciendo las compras en el super con esto, la gente me mira raro
+[ClienteMisterioso] yo vi a una señora moviendo el carrito al ritmo
+[JuliSuper] esa señora era yo jajaja
+[ClienteMisterioso] mis respetos señora
+[RepoMauri] en el deposito laburando con esto, sube la productividad
+[JefeControl] mauri te estamos viendo, segui asi
+[RepoMauri] que los jefes me vean bailando mientras laburo
+[JefeControl] sos un capo mauri
+[EstudianteCaro] estudiando para el final con esto de fondo
+[FranApuntes] yo no puedo estudiar con musica, me distraigo
+[EstudianteCaro] a mi me ayuda a concentrarme
+[FranApuntes] debe ser porque sos de otro planeta
+[EstudianteCaro] puede ser
+[PiluViajera] en el avion escuchando esto, mirando las nubes
+[AzuVuelos] te re zafas pilu, yo le tengo miedo al avion
+[PiluViajera] con esto ni me acuerdo que voy volando
+[AzuVuelos] deberian poner esto en los aviones
+[CocinaRosa] friendo unos huevos con esto, salieron perfectos
+[EmaCocina] la musica influye en la coccion, yo lo digo
+[CocinaRosa] tal cual, los huevos salieron mas ricos
+[EmaCocina] voy a probar con milanesas despues
+[PoliSanti] patrullando la ciudad con esto, me siento en una pelicula de accion
+[OficialMora] santi, si te ve el comisario te saca el celular
+[PoliSanti] el comisario escucha lo mismo, no pasa nada
+[OficialMora] me diste un dato, voy a investigar
+[LluviRocio] escuchando esto mientras llueve, planazo
+[MartinaAgua] yo tambien, mirando por la ventana
+[LluviRocio] esto es mejor que Netflix
+[MartinaAgua] mil veces mejor
+[AbueloJuan] mis nietos me pasaron esto, no entiendo mucho pero me gusta
+[AbuelaCora] juan te estaras haciendo el moderno?
+[AbueloJuan] cora, nunca es tarde para aprender
+[AbuelaCora] entonces pasamelo a mi tambien
 [Alex_92] ¡Hola a todos! ¿Cómo están? 👋
 [Sofi_Music] Acabo de llegar, ¿qué están escuchando? 🎧
 [CarlosG] Esta canción es un temazo total 🔥
@@ -1069,7 +1130,6 @@
 [GrooveEmpire] This is anthem material 👑
 [SoundSurge] Hands up everybody 🙌
 [ZonaFinal] Eso cerró demasiado fuerte 🔥
-Continúo exactamente con el mismo patrón (1 español, 1 inglés, 2 español, 3 inglés), dinámico, con emoticones y sin espacios:
 
 [RitmoBrillante] Ese intro me atrapó de una ✨
 [SkyDetonator] That drop detonated my brain 🤯
@@ -1120,7 +1180,6 @@ Continúo exactamente con el mismo patrón (1 español, 1 inglés, 2 español, 3
 [BeatGalaxy] This feels larger than life 🌌
 [EchoHavoc] I’m losing my mind right now 😭
 [HyperBlaze] Pure fire from start to finish 🔥
-Perfecto. Continúo inmediatamente con el mismo patrón (1 español, 1 inglés, 2 español, 3 inglés), dinámicos, con emoticones y sin espacios:
 
 [ZonaAdrenalina] Eso me subió el pulso al instante ❤️‍🔥
 [SkyCollision] That drop just hit different 💥
@@ -1171,6 +1230,48 @@ Perfecto. Continúo inmediatamente con el mismo patrón (1 español, 1 inglés, 
 [PulseLegend] This is anthem material 👑
 [EchoOverdrive] I wasn’t ready for that at all 😭
 [HyperFinal] Pure energy from start to end ⚡
+[GamerPesado] estoy farmeando escuchando esto, sube la concentración 100%
+[LuchoArcade] qué estás jugando bro?
+[GamerPesado] al counter, pero con esto voy como ballena
+[MicaJuega] cómo que ballena? jajajaj
+[GamerPesado] re heavy, no me mata nadie
+[FerGym] yo en el gym con esto, últimas repes al fallo
+[PatoMusculo] cuidado con las pesas fer
+[FerGym] si me mato, al menos muero con buena música
+[TaxiNocturno] laburando en el auto y esto me mantiene despierto
+[ClienteRandom] bajále un toque que voy en el asiento de atrás
+[TaxiNocturno] usted manda jefe, subo cuando se baje
+[LunaLlorona] mi ex me dedicaba temas así, ahora escucho y me agarra nostalgia
+[TomiRoto] fuerzas luna, de eso se sale
+[LunaLlorona] pero con este tema no sé si quiero salir jaja
+[ObraNegro] en la construcción con los auris, que los jefes no me vean
+[AlbañilRitmo] cuidado con los de seguridad social
+[ObraNegro] si me ven, me hacen poner música para todos
+[CumbieroNato] así que seas el dj de la obra
+[ObraNegro] mejor me callo entonces jajaja
+[PaseoPerros] paseando perros a las 6am con esto, los perros van al ritmo
+[DobleRaza] mis perros solo escuchan reggaetón
+[PaseoPerros] educalos bien papá, esto es otra cosa
+[CocineroNocturno] friendo milanesas con esto de fondo, combinación perfecta
+[Parrillero] las milangas quedan más crocantes con buen ritmo
+[CocineroNocturno] la música influye en la cocción, estudio propio
+[EstudianteSiempre] escribiendo mi tesis con esto, me concentro pero me distraigo
+[TesisLarga] estás escribiendo o escuchando? decidite
+[EstudianteSiempre] las dos, multitasking
+[TesisLarga] así no terminás nunca che
+[DeliveryRapido] en la moto repartiendo pedidos, esto le da ritmo a las entregas
+[PizzaCaliente] llegando con la pizza fría por escuchar música
+[DeliveryRapido] la pizza caliente, el ritmo también, todo bien
+[LimpiezaTotal] barriendo la casa y esto me hace sentir que estoy en un videoclip
+[JazminEscoba] yo paso el trapito con esto y parezco modelo
+[LimpiezaTotal] ahí está la actitud jazmín
+[Colectivero] llevando 80 personas y yo con un auricular nada más
+[PasajeroFrecuente] espero no sea el chofer del 60
+[Colectivero] tranqui, soy del 24, vas seguro
+[ViejaNoche] mis hijos me dijeron que escuche esto para entenderlos
+[AbuelaElectro] y qué te pareció abuela?
+[ViejaNoche] un quilombo pero tiene ritmo, me mueve las caderas
+[AbuelaElectro] esa es la actitud
 
 // === EVENTOS ===
 // Formato: !tipo descripción
